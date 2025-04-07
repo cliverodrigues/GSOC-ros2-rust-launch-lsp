@@ -1,0 +1,8 @@
+[package]
+name = "rust_pub"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rclrs = "0.2"
+std_msgs = "0.2"
