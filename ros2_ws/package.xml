@@ -3,7 +3,7 @@
   <name>ros2_rust_launch_demo</name>
   <version>0.1.0</version>
   <description>Rust-based ROS2 demo with Python launch support</description>
-  <maintainer email="your.email@example.com">Your Name</maintainer>
+  <maintainer email="rodriguesclive8@gmail.com">Clive Rodrigues</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
